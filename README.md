@@ -43,7 +43,7 @@ This project is intended as a learning tool and can be used as a sample project 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/ramanbajpai7/Study-Notion-master.git
+    git clone https://github.com/adiri77/StudyNotion.git
     ```
 
 2. Install the required packages.
